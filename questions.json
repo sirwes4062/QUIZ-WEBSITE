@@ -1,0 +1,43 @@
+[
+    {
+       "question": "who is the president of NIGERIA",
+       "choice1": "Muhammadu Buhari",
+       "choice2":  "Williams Eneojo",
+       "choice3":  "Rose Ugbede",
+       "choice4":   "Goodness Chide",
+       "answer":1
+    },
+    {
+       "question": "who is the president of RUSSIA",
+       "choice1": "Apollos Enemona",
+       "choice2": "Vladimir Putin",
+       "choice3" : "Enoch Ojodomo",
+       "choice4": "Favor Ibechone",
+       "answer": 2
+
+    },
+    {
+       "question": "who is the president of UKRAINE",
+      "choice1": "Gideon Chenemi",
+      "choice2" : "Justina Ojoma",
+      "choice3": "Volodymyr Zelenskyy",
+      "choice4": "Emmanuel Salifu",
+      "answer": 3
+    },
+    {
+      "question": "who is the president of USA",
+     "choice1": "Gideon salifu",
+     "choice2" : "Justina Ojoma",
+     "choice3": "Volodymyr Zelenskyy",
+     "choice4": "joe biden",
+     "answer": 4
+   },
+   {
+      "question": "who is the queen of ENGLAND",
+     "choice1": "Queen Goodness of England",
+     "choice2" : "Queen Esther of England",
+     "choice3": "Queen Beshaba of England",
+     "choice4": "Queen Elizabeth of England",
+     "answer": 4
+   }
+]
